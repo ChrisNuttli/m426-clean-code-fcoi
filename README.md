@@ -8,8 +8,9 @@ capacity.
 
 ## Structure
 
-The examples are made in Java and will be split into multiple packages, where each package demonstrates a situation
-where composition is more favorable than inheritance.
-There will be 2 files in each Package, that show a good example and a bad example (they are named accordingly).
+The examples are made in Java and will be split into two packages: `good` and `bad`.
+Each file contains a class with an example of the principle in action.
+The code will be explained using comments, in order to give more insight.
 
-The code will be explained using comments, in order to give more insight. 
+## References
+- [clean code](https://clean-code-developer.de/die-grade/roter-grad/#elementor-toc__heading-anchor-7)
