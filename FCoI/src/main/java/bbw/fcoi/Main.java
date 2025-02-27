@@ -1,4 +1,4 @@
-package bbw.vogel;
+package bbw.fcoi;
 
 public class Main {
     public static void main(String[] args) {
