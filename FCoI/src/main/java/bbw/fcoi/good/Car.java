@@ -17,4 +17,8 @@ public class Car {
 	public void start() {
 		engine.start();
 	}
+
+	public void setEngine(IEngine engine) {
+		this.engine = engine;
+	}
 }
