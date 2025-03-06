@@ -39,6 +39,14 @@ The good example, on the other hand, will have a `Car` class that is composed of
 a `CombustionEngine` or an `ElectricEngine`. This allows for greater flexibility and reusability, as the engine type can
 be changed at runtime by simply changing the engine object that the car is composed of.
 
+## Usage Instructions
+
+To run the examples, simply clone the repository and run the `Main` class in the `good` or `bad` package.
+
+## Maintainer and Contributors
+
+This Project is maintained by me, [Christian Nuttli](https://github.com/ChrisNuttli) alone.
+
 ## References
 - [clean code](https://clean-code-developer.de/die-grade/roter-grad/#elementor-toc__heading-anchor-7)
 - [Medium - Fcoi](https://sheldonrcohen.medium.com/favoring-composition-over-inheritance-ff2ece6b7b4e)
