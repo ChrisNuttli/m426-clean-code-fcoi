@@ -20,7 +20,7 @@ code, and the inability to change the behavior of a class at runtime.
 Composition, on the other hand, allows for greater flexibility and reusability, as classes can be composed of other
 classes at runtime, rather than being bound to a parent class at compile time.
 
-The Design Pattern I chose to implement FCoI in a Project is the [Proxy Pattern](https://refactoring.guru/design-patterns/proxy),
+The Design Pattern I chose to implement FCoI in a Project is the [Decorator Pattern](https://refactoring.guru/design-patterns/decorator),
 because the use of Interfaces is one of the simplest ways to implement Composition.
 
 ## Example Explanations
@@ -42,5 +42,4 @@ be changed at runtime by simply changing the engine object that the car is compo
 ## References
 - [clean code](https://clean-code-developer.de/die-grade/roter-grad/#elementor-toc__heading-anchor-7)
 - [Medium - Fcoi](https://sheldonrcohen.medium.com/favoring-composition-over-inheritance-ff2ece6b7b4e)
-- [Proxy Pattern](https://refactoring.guru/design-patterns/proxy)
-
+- [Decorator Pattern](https://refactoring.guru/design-patterns/decorator)
