@@ -1,11 +1,11 @@
 package bbw.fcoi.bad;
 
-public class ElectricCar extends ElectricEngine {
+public class ElectricCar extends Car {
 	public ElectricCar() {
 		super();
 	}
 
 	public void start() {
-		super.start();
+		System.out.println("Starting electric engine");
 	}
 }
